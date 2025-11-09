@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/html-splitter-combiner/static/css/main.295a5771.css",
+    "main.js": "/html-splitter-combiner/static/js/main.71e75b01.js",
+    "index.html": "/html-splitter-combiner/index.html",
+    "main.295a5771.css.map": "/html-splitter-combiner/static/css/main.295a5771.css.map",
+    "main.71e75b01.js.map": "/html-splitter-combiner/static/js/main.71e75b01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.295a5771.css",
+    "static/js/main.71e75b01.js"
+  ]
+}
